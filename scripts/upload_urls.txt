@@ -1,0 +1,14 @@
+# Zenodo URLs for all input data
+# Upload these to Galaxy using Upload Data → Paste/Fetch Data
+
+# HiFi reads (set type = fasta)
+https://zenodo.org/record/6098306/files/HiFi_synthetic_50x_01.fasta
+https://zenodo.org/record/6098306/files/HiFi_synthetic_50x_02.fasta
+https://zenodo.org/record/6098306/files/HiFi_synthetic_50x_03.fasta
+
+# Hi-C reads (set type = fastqsanger.gz)
+https://zenodo.org/record/5550653/files/SRR7126301_1.fastq.gz
+https://zenodo.org/record/5550653/files/SRR7126301_2.fastq.gz
+
+# Bionano optical map (set type = cmap)
+https://zenodo.org/records/5887339/files/bionano.cmap

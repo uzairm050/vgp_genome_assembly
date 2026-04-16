@@ -1,0 +1,19 @@
+# BUSCO version: 5.5.0
+# The lineage dataset is: saccharomycetes_odb10 (Creation date: 2021-02-19, number of genomes: 76, number of BUSCOs: 2137)
+# Summarized benchmarking in BUSCO notation for file: Hap1_contigs.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:95.9%[S:94.1%,D:1.8%],F:2.7%,M:1.4%,n:2137	   
+	2050	Complete BUSCOs (C)			   
+	2010	Complete and single-copy BUSCOs (S)	   
+	40	Complete and duplicated BUSCOs (D)	   
+	57	Fragmented BUSCOs (F)			   
+	30	Missing BUSCOs (M)			   
+	2137	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmer: 3.3.2
+	metaeuk: 6.a5d39d9
