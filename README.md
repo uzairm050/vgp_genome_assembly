@@ -8,19 +8,6 @@
 [![BUSCO Hap1](https://img.shields.io/badge/BUSCO%20Hap1-95.9%25-brightgreen?style=flat-square)](#busco--gene-completeness)
 [![Merqury](https://img.shields.io/badge/Merqury-99.9999%25-brightgreen?style=flat-square)](#merqury--k-mer-quality)
 
----
-
-## 👤 Author
-
-| Field | Details |
-|---|---|
-| **Name** | Uzair Malik |
-| **Program** | MS Bioinformatics, 2nd Semester |
-| **Institution** | National University of Sciences and Technology (NUST), Islamabad, Pakistan |
-| **GitHub** | [@uzairm050](https://github.com/uzairm050) |
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -398,12 +385,3 @@ vgp-genome-assembly/
 
 ---
 
-## Acknowledgements
-
-- [Galaxy Training Network](https://training.galaxyproject.org/) for the VGP tutorial
-- [usegalaxy.eu](https://usegalaxy.eu) for free computing resources
-- NUST Bioinformatics Department for academic guidance
-
----
-
-*Assembled March 2026 · MS Bioinformatics · NUST Islamabad · [@uzairm050](https://github.com/uzairm050)*
