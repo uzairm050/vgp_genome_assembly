@@ -501,4 +501,3 @@ vgp_genome_assembly/
 
 ---
 
-*Completed as part of the MS Bioinformatics program, NUST Islamabad. Pipeline executed on [Galaxy (usegalaxy.eu)](https://usegalaxy.eu).*
